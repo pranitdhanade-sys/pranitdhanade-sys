@@ -10,15 +10,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-</div>
-
----
 
 <div align="center">
 
