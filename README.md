@@ -156,6 +156,32 @@ Currently Learning:
 
 ---
 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Pranit%20Dhanade&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source&descAlignY=60&descSize=18" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor;Building+Scalable+Systems;Real-Time+Applications;Backend+Architecture;Always+Learning+New+Things" />
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/240885297-573e8506-4d79-4b2d-9f9c-97c6bdbb8c5e.gif" width="700"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+
+</div>
+
+
 # 💻 Workspace
 
 <div align="center">
