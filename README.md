@@ -34,7 +34,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TRINIB/trinib/main/.images/footer.svg" width="100%">
 
 </div>
 # 💫 About Me
